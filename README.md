@@ -1,3 +1,4 @@
-# VCS and CICD 
-VCS -> Git 
-CICD -> Jenkins 
+# VCS and CICD
+
+1.VCS -> Git 
+2.CICD -> Jenkins 
